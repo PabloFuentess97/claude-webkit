@@ -1,5 +1,4 @@
-# Built landing page
-site/
+# Built landing page (ignored in the upstream template; this project commits it)
 build/
 
 # Dependencies
