@@ -36,3 +36,4 @@ yarn-error.log*
 playwright-cli-screenshots/
 *.png
 !docs/**/*.png
+!previews/**/*.png
