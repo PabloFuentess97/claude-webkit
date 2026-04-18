@@ -27,6 +27,12 @@ Thumbs.db
 .next/
 out/
 
+# Payload / DB
+site/payload.db
+site/payload.db-*
+site/src/payload-types.ts
+site/public/uploads/
+
 # Debug
 npm-debug.log*
 yarn-debug.log*

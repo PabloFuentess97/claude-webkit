@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Mail, Phone } from "lucide-react";
-import { site } from "../lib/site";
+import { site } from "@/lib/site";
 import Logo from "./Logo";
 import { LinkedInIcon, XIcon, InstagramIcon } from "./icons/Socials";
 

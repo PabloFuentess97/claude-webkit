@@ -4,8 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { Menu, X, ArrowRight } from "lucide-react";
-import { site } from "../lib/site";
-import { cn } from "../lib/cn";
+import { site } from "@/lib/site";
+import { cn } from "@/lib/cn";
 import Logo from "./Logo";
 import ThemeToggle from "./ThemeToggle";
 
